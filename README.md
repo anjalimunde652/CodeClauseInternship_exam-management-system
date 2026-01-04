@@ -86,6 +86,18 @@ styles/
 - Logout clears stored role and redirects to login
 
 ---
+## Screenshots
+
+<img width="1041" height="745" alt="image" src="https://github.com/user-attachments/assets/8aa0e03a-ca2e-4363-be73-c2d76dad1a26" />
+<img width="1915" height="737" alt="image" src="https://github.com/user-attachments/assets/1e03dc8a-edf8-4319-a012-f2a65bb42e07" />
+<img width="1364" height="813" alt="image" src="https://github.com/user-attachments/assets/5d0444d9-74ff-4a31-bb1d-ccdf48642a95" />
+<img width="1914" height="739" alt="image" src="https://github.com/user-attachments/assets/7ec6f0b6-d20c-4dab-9fc4-e144fafc0c8f" />
+<img width="1919" height="819" alt="image" src="https://github.com/user-attachments/assets/dfcb7f50-ca20-4cae-928b-dc5bec1e0486" />
+<img width="1917" height="644" alt="image" src="https://github.com/user-attachments/assets/81df73d6-a0a3-435a-8d88-bb9f3ad01f40" />
+<img width="1909" height="816" alt="image" src="https://github.com/user-attachments/assets/c8de6691-c1f7-4132-bb9f-8873ed6b2236" />
+<img width="1058" height="844" alt="image" src="https://github.com/user-attachments/assets/7341cdfd-7fc5-4b7b-ad67-a8e59397b87f" />
+
+
 
 ## 🚀 How to Run the Project
 ```bash
